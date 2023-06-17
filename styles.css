@@ -1,0 +1,25 @@
+
+html {
+    background-color: #CBE4DE;
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+    color: #2C3333;
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 3rem;
+}
+
+
+h2 {
+    color: #2E4F4F;
+    
+}
+
+h3 {
+    color: #0E8388;
+}
+
+img {
+    height: 300px;
+}
