@@ -1,1 +1,1 @@
-this is some recipes site made with html. juhuu
+this is some recipes site made for the Odin project. juhuu
