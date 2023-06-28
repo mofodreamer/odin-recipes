@@ -2,6 +2,16 @@
 html {
     background-color: #CBE4DE;
     font-family: 'Lato', sans-serif;
+    line-height: 1.6;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    margin-top: 70px;
+}
+
+div {
+    margin: 5% 20%;
 }
 
 h1 {
@@ -22,4 +32,16 @@ h3 {
 
 img {
     height: 300px;
+}
+
+
+ul, ol {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+
+
+.steps li {
+    margin-bottom: 10px;
 }
